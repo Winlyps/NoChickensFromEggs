@@ -1,0 +1,5 @@
+name: NoChickensFromEggs
+version: '1.0.0'
+main: winlyps.noChickensFromEggs.NoChickensFromEggs
+api-version: '1.20'
+authors: [ Winlyps ]
